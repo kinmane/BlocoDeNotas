@@ -1,0 +1,13 @@
+C:\Users\gabriel.rorato\Documents\GitHub\BlocoDeNotas\BlocoDeNotas\bin\Debug\BlocoDeNotas.exe.config
+C:\Users\gabriel.rorato\Documents\GitHub\BlocoDeNotas\BlocoDeNotas\bin\Debug\BlocoDeNotas.exe
+C:\Users\gabriel.rorato\Documents\GitHub\BlocoDeNotas\BlocoDeNotas\bin\Debug\BlocoDeNotas.pdb
+C:\Users\gabriel.rorato\Documents\GitHub\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.csproj.AssemblyReference.cache
+C:\Users\gabriel.rorato\Documents\GitHub\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.Form1.resources
+C:\Users\gabriel.rorato\Documents\GitHub\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.Properties.Resources.resources
+C:\Users\gabriel.rorato\Documents\GitHub\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.csproj.GenerateResource.cache
+C:\Users\gabriel.rorato\Documents\GitHub\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.rorato\Documents\GitHub\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.exe
+C:\Users\gabriel.rorato\Documents\GitHub\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.pdb
+C:\Users\gabriel.rorato\Documents\GitHub\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.Substituir.resources
+C:\Users\gabriel.rorato\Documents\GitHub\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.Localizar.resources
+C:\Users\gabriel.rorato\Documents\GitHub\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.Sobre.resources
